@@ -1,6 +1,6 @@
 # pycharm-panda-syntax
 
-> A somewhat port of @siamak's [atom-panda-syntax](https://github.com/siamak/atom-panda-syntax) for PyCharm.
+> A somewhat port of [@siamak](https://github.com/siamak)'s [atom-panda-syntax](https://github.com/siamak/atom-panda-syntax) for PyCharm.
 
 ![](screenshot.png)
 
